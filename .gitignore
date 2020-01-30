@@ -1,0 +1,15 @@
+# Backupfiles from mergetools #
+*.orig
+# Java Class Files #
+*.class
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+# Eclipse #
+/.project
+/.settings
+bin/**
+# Maven #
+target/
