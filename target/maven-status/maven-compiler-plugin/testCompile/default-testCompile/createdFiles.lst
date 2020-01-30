@@ -1,0 +1,8 @@
+com/apitesting/util/PropertyReader.class
+com/apitesting/tests/DatadrivenTest.class
+com/apitesting/requests/RequestFactory.class
+com/apitesting/tests/CrudTest.class
+com/apitesting/tests/TestBase.class
+com/apitesting/tests/TestBase$1.class
+com/apitesting/requests/RestClient.class
+com/apitesting/specs/SpecificationFactory.class
