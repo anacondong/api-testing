@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.apitesting.tests.CrudTest
--------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.056 s - in com.apitesting.tests.CrudTest
