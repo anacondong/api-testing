@@ -24,7 +24,6 @@ public class TestBase {
       System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
       System.out.println(description.getMethodName().toUpperCase());
       System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
-
     }
 
     @Override
@@ -37,7 +36,6 @@ public class TestBase {
 
     @Override
     protected void starting(Description description) {
-
 
       System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
       System.out.println("Starting Test: " + description.getMethodName().toUpperCase());
